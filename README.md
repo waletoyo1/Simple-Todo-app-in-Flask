@@ -1,1 +1,1 @@
-# usmania-task
+# Simple Todo App in Flask
